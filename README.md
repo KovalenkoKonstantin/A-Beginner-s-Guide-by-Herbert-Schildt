@@ -33,8 +33,8 @@ Here is the code for the Herbert Schildt beginners guide 7th edition
 
 | 14 | [Лямбды](./src/beginners_guide_schildt/chapter14_Lambda)
 
-| 15 | [Модули (не включены)](https://github.com/Kosinfernal/Modules) 
+| 15 | [Модули](https://github.com/Kosinfernal/Modules) 
 
-| 16 | [Swing (не включено)](./src/beginners_guide_schildt/hapter16_Swing) 
+| 16 | [Swing](./src/beginners_guide_schildt/hapter16_Swing) 
 
-| 17 | [JavaFX (не включено)](./src/beginners_guide_schildt/)
+| 17 | [JavaFX](https://github.com/Kosinfernal/demo)
