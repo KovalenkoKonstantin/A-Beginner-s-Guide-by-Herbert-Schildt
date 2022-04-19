@@ -35,6 +35,6 @@ Here is the sorce code for the Herbert Schildt beginners guide 7th edition
 
 | 15 | [Модули](https://github.com/Kosinfernal/Modules) 
 
-| 16 | [Swing](./src/beginners_guide_schildt/hapter16_Swing) 
+| 16 | [Swing](./src/beginners_guide_schildt/chapter16_Swing) 
 
 | 17 | [JavaFX](https://github.com/Kosinfernal/demo)
