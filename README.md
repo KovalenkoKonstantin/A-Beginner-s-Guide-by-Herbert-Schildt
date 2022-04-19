@@ -33,7 +33,7 @@ Here is the code for the Herbert Schildt beginners guide 7th edition
 
 | 14 | [Лямбды](./src/beginners_guide_schildt/chapter14_Lambda)
 
-| 15 | [Модули (не включены)](./src/beginners_guide_schildt/chapter15_Modules) 
+| 15 | [Модули (не включены)](Kosinfernal/Modules) 
 
 | 16 | [Swing (не включено)](./src/beginners_guide_schildt/hapter16_Swing) 
 
