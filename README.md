@@ -23,7 +23,7 @@ Here is the code for the Herbert Schildt beginners guide 7th edition
 
 | 9 | [Исключения](./src/beginners_guide_schildt/chapter9_Exceptions)
 
-| 10 | [I\O, Потоки](./src/beginners_guide_schildt/chapter10_Потоки)
+| 10 | [I/O, Потоки](./src/beginners_guide_schildt/chapter10_Потоки)
 
 | 11 | [Multithreaded Programming](./src/beginners_guide_schildt/chapter11_Threads)
 
