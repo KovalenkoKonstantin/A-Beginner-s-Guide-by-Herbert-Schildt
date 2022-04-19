@@ -1,0 +1,9 @@
+package beginners_guide_schildt.chapter7_Наследование.listing8;
+
+class UseSuper {
+    public static void main(String args[]) {
+        B subOb = new B(1, 2);
+
+        subOb.show();
+    }
+}
