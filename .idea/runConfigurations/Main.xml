@@ -2,8 +2,8 @@
   <configuration default="false" name="Main" type="Application" factoryName="Application">
     <option name="ALTERNATIVE_JRE_PATH" value="17" />
     <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-    <option name="MAIN_CLASS_NAME" value="com.javacourse.se.lesson5.Main" />
-    <module name="HelloWorld" />
+    <option name="MAIN_CLASS_NAME" value="beginners_guide_schildt.chapter16_Swing.tasks.Compare" />
+    <module name="A Beginner's Guide by Herbert Schildt" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
