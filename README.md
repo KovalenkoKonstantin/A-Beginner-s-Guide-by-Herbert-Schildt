@@ -1,10 +1,10 @@
-# Gerbert Schildt Beginners Guide 9!
-th edition
+# Gerbert Schildt Beginners Guide 9th edition (Russian commetns).
 Learning Process
-<br/>Here is the sorce code for the Herbert Schildt beginners guide 7th edition
-<br/>Chapter 15 and 17 are separate from this source code in outer directory.
+<br/>Here is the sorce code for the Herbert Schildt beginners guide 9th edition
+<br/>Chapters 15 and 17 are separate from this source code in outer directory.
 
-[Без имени](https://user-images.githubusercontent.com/94693119/164434238-c2787b9b-3586-481e-892f-a8ac0b9ccb6b.png)
+![Без имени](https://user-images.githubusercontent.com/94693119/164434437-0e297a58-43dd-4131-b3f2-68a5c812af36.png)
+
 
 ## Contents
 
