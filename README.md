@@ -1,7 +1,7 @@
 # Gerbert Schildt Beginners Guide 7th edition
 Learning Process
-Here is the sorce code for the Herbert Schildt beginners guide 7th edition
-Chapter 15 and 17 are separate from this source code in outer directory.
+<br/>Here is the sorce code for the Herbert Schildt beginners guide 7th edition
+<br/>Chapter 15 and 17 are separate from this source code in outer directory.
 ## Contents
 
 | No. | Chapter | Sourse |
